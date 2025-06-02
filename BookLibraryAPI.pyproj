@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2eac53c9-688c-4fd1-b628-ba206e9dd49e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BookLibraryAPI.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BookLibraryAPI.py" />
     <Compile Include="main.py" />
     <Compile Include="models.py" />
   </ItemGroup>
